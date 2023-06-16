@@ -3,8 +3,8 @@
 ### I'm Hamed
 
 I'm a FrontEnd WebDeveloper <br />
-I have +8 years of experience in frontend web development<br/>
-Also +2 years in React.js <br/>
+I have +9 years of experience in frontend web development<br/>
+Also +3 years in React.js <br/>
 I did successfully more than 300 projects in the following items <br/>
 (part-time, full-time, freelancing, remote, and hybrid)
 
