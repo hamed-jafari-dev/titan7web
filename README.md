@@ -8,7 +8,7 @@ Also +3 years in React.js <br/>
 I did successfully more than 300 projects in the following items <br/>
 (part-time, full-time, freelancing, remote, and hybrid)
 
-### Main Stack
+### Main Skill
 [![react](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=React&logoColor=aDAFB&color=32363E)](https://reactjs.org/)
 
 
